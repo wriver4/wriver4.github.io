@@ -1,2 +1,1 @@
-# wriver4.github.io
-# is here
+Just a Splash page for now
