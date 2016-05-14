@@ -94,7 +94,15 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
+.center90{
+    margin:0 auto;
+    padding: 0 auto;
+    width:90%;}
+.center80{
+    margin:0 auto;
+    padding: 0 auto;
+    width:80%;
+}
 .center70{
     margin:0 auto;
     padding: 0 auto;
@@ -103,7 +111,7 @@ textarea {
 .center60{
     margin:0 auto;
     padding: 0 auto;
-    width:70%;
+    width:60%;
 }
 .center50{
     margin:0 auto;
