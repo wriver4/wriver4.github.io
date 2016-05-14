@@ -1,0 +1,8 @@
+{
+    "name": "github_io",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "mark weisser <mark at whizbangdevelopers.com>",
+    "contributors": [],
+    "dependencies": {}
+}
