@@ -9,6 +9,6 @@ timezone: America/New_York
 
 name: Activerecord • A Simple ORM with history.
 description: Transform your PHP Development Process
-url: https://wriver4.github.io
+url: "https://wriver4.github.io"
 
 logo: assets/images/logo.png
